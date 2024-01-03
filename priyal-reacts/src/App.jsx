@@ -2,9 +2,11 @@ import FirstComponent from "./FirstComp"
 
 
 function App() {
+
+  const username = "Priyal Gupta"
   return (
     <>
-      <h1>Priyal Reacts:</h1>
+      <h1>Priyal Reacts: {username}</h1>
       <FirstComponent />
     </>
   )
