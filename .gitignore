@@ -1,0 +1,8 @@
+tailwind-props/package-lock.json
+tailwind-props/src/index.css
+tailwind-props/vite.config.js
+tailwind-props/tailwind.config.js
+tailwind-props/postcss.config.js
+tailwind-props/package.json
+tailwind-props/.gitignore
+tailwind-props/.eslintrc.cjs
