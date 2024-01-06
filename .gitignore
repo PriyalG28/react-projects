@@ -14,3 +14,13 @@ bg-changer/postcss.config.js
 bg-changer/README.md
 bg-changer/tailwind.config.js
 bg-changer/vite.config.js
+password-generator/.eslintrc.cjs
+password-generator/.gitignore
+password-generator/package-lock.json
+password-generator/package.json
+password-generator/postcss.config.js
+password-generator/README.md
+password-generator/tailwind.config.js
+password-generator/vite.config.js
+.gitignore
+.gitignore
