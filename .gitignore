@@ -6,3 +6,11 @@ tailwind-props/postcss.config.js
 tailwind-props/package.json
 tailwind-props/.gitignore
 tailwind-props/.eslintrc.cjs
+bg-changer/.gitignore
+bg-changer/.eslintrc.cjs
+bg-changer/package-lock.json
+bg-changer/package.json
+bg-changer/postcss.config.js
+bg-changer/README.md
+bg-changer/tailwind.config.js
+bg-changer/vite.config.js
