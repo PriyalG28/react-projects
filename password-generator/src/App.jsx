@@ -23,8 +23,14 @@ function App() {
       str += "~!@#$%^&*()[]{}|+=_-"
     }
 
+    const getRandomByte = () => {
+      const buffer = new Uint8Array(1);
+      window.crypto.getRandomValues(buffer);
+      return buffer[0];
+    };
+
     for(let i = 1; i <= length; i++){
-      let index = Math.floor(Math.random() * str.length + 1)
+      const index = Math.floor(getRandomByte() / 255 * str.length);
       pass += str.charAt(index)
     }
     
