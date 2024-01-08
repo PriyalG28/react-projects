@@ -24,3 +24,9 @@ password-generator/tailwind.config.js
 password-generator/vite.config.js
 .gitignore
 .gitignore
+currency-converter/.eslintrc.cjs
+currency-converter/package-lock.json
+currency-converter/package.json
+currency-converter/postcss.config.js
+currency-converter/tailwind.config.js
+currency-converter/vite.config.js
