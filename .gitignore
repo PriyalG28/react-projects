@@ -30,3 +30,9 @@ currency-converter/package.json
 currency-converter/postcss.config.js
 currency-converter/tailwind.config.js
 currency-converter/vite.config.js
+react-router/.eslintrc.cjs
+react-router/package-lock.json
+react-router/package.json
+react-router/postcss.config.js
+react-router/tailwind.config.js
+react-router/vite.config.js
