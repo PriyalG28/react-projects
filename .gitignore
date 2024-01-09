@@ -36,3 +36,8 @@ react-router/package.json
 react-router/postcss.config.js
 react-router/tailwind.config.js
 react-router/vite.config.js
+mini-context/.eslintrc.cjs
+mini-context/package-lock.json
+mini-context/package.json
+mini-context/vite.config.js
+mini-context/README.md
