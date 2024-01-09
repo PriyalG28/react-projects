@@ -41,3 +41,9 @@ mini-context/package-lock.json
 mini-context/package.json
 mini-context/vite.config.js
 mini-context/README.md
+theme-switcher/.eslintrc.cjs
+theme-switcher/vite.config.js
+theme-switcher/postcss.config.js
+theme-switcher/package.json
+theme-switcher/package-lock.json
+theme-switcher/README.md
