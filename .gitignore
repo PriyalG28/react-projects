@@ -47,3 +47,9 @@ theme-switcher/postcss.config.js
 theme-switcher/package.json
 theme-switcher/package-lock.json
 theme-switcher/README.md
+todo-app/README.md
+todo-app/postcss.config.js
+todo-app/package-lock.json
+todo-app/package.json
+todo-app/.eslintrc.cjs
+todo-app/vite.config.js
