@@ -53,3 +53,7 @@ todo-app/package-lock.json
 todo-app/package.json
 todo-app/.eslintrc.cjs
 todo-app/vite.config.js
+reduxtoolkittodo/.eslintrc.cjs
+reduxtoolkittodo/package-lock.json
+reduxtoolkittodo/package.json
+reduxtoolkittodo/vite.config.js
