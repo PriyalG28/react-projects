@@ -57,3 +57,10 @@ reduxtoolkittodo/.eslintrc.cjs
 reduxtoolkittodo/package-lock.json
 reduxtoolkittodo/package.json
 reduxtoolkittodo/vite.config.js
+text-utils/package-lock.json
+text-utils/package.json
+text-utils/README.md
+text-utils/vite.config.js
+text-utils/public/vite.svg
+text-utils/src/assets/react.svg
+text-utils/.eslintrc.cjs
