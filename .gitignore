@@ -64,3 +64,4 @@ text-utils/vite.config.js
 text-utils/public/vite.svg
 text-utils/src/assets/react.svg
 text-utils/.eslintrc.cjs
+markdown-viewer/.gitignore
